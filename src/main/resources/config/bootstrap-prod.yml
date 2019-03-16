@@ -12,7 +12,7 @@ spring:
                 bootstrap: true
                 composite:
                     - type: git
-                      uri: https://github.com/jhipster/jhipster-registry-sample-config
+                      uri: https://gitee.com/cwq12/myRegistry
                 prefix: /config
             fail-fast: true
             # name of the config server's property source (file.yml) that we want to use
